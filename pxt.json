@@ -1,0 +1,21 @@
+{
+    "name": "Demoo",
+    "version": "0.1.21",
+    "description": "Blocks for Demo4 Micro:bit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "StartbitRGBLight.ts",
+        "sendbuffer.asm",
+        "startbit-strings.json",
+        "startbit-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
